@@ -1,0 +1,37 @@
+<!-- 
+    Week 1: Introduction to HTML
+
+What is HTML?
+Basic HTML tags
+Creating a simple web page
+Week 2: Introduction to CSS
+
+What is CSS?
+Basic CSS syntax
+Styling a web page
+Week 3: Intermediate HTML and CSS
+
+Advanced HTML tags
+Advanced CSS syntax
+Responsive design
+Week 4: Introduction to JavaScript
+
+What is JavaScript?
+Basic JavaScript syntax
+Adding interactivity to a web page
+Week 5: Intermediate JavaScript
+
+Functions and loops
+Arrays and objects
+DOM manipulation
+Week 6: Introduction to React
+
+What is React?
+Setting up a React project
+Creating components
+Week 7: Intermediate React
+
+State and props
+Event handling
+Conditional rendering
+ -->

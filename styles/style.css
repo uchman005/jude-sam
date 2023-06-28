@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+.one{
+    background-color: red;
+    height: 900px;
+    margin: 20px;
+    padding: 100px;
+}
+.two{
+margin: 20px;
+padding: 100px;
+    background-color: blue;
+    min-height: 900px;
+}
